@@ -1,4 +1,4 @@
-package AirportSelectionTool;
+package airportSelectionTool;
 
 
 import de.fhpotsdam.unfolding.geo.Location;

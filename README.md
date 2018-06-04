@@ -1,2 +1,2 @@
 # JavaApp_AirportSelectionTool
-Java applet to select air flight route
+Java applet to display airport and flight route information.
